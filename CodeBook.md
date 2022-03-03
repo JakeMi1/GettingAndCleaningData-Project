@@ -7,7 +7,7 @@ output: html_document
 
 # Getting and Cleaning Data Project
 
-###The run_analysis.R code transforms the provided raw Samsung Galazy S data
+The `run_analysis.R` code transforms the provided raw Samsung Galazy S data
 
 - Combines files into a single dataset
 - Extracts only the measurements on the mean and standard deviation for each measurement
